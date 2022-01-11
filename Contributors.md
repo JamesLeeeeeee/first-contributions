@@ -218,6 +218,7 @@ sylucck
 Jawadur
 - VastoLordePy
 - [Brian Bawden]
+- [JamesLeeeeeee](https://github.com/JamesLeeeeeee/)
   [Usman Naveed](https://github.com/usman-naveed)
 - [BooDeer](https://github.com/BooDeer)
 - Nithin
